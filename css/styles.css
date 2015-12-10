@@ -1,0 +1,21 @@
+body {
+	padding-top: 60px;
+}
+
+#embellishment {
+	position: absolute;
+	top: 12px;
+	left: 35%;
+}
+
+header.jumbotron {
+	background: #EAEAEA url(../images/scud.png) no-repeat top right;
+	background-size: contain;
+	border: 1px solid #333;
+}
+
+footer {
+	border-top: 1px solid #CCC;
+	margin-top: 50px;
+	padding: 10px;
+}
